@@ -1,3 +1,6 @@
+<?php
+require 'basephp/insertar.php';
+?>
 
 <!DOCTYPE html>
 <html lang="en">

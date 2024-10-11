@@ -37,13 +37,14 @@ footer {
     position: fixed;
 }
 
-.nav {
+.nav, .nav2 {
     width: 600px;
     margin: 20px auto;
     border-radius: 5px;
 }
 
-.lista {
+
+.lista, .lista2 {
     width: 100%;
     display: flex;
     color: white;
@@ -93,7 +94,7 @@ transform: scale(1.03);
     transform: scale(0.95);
 }
 
-.opciones {
+.opciones, .opciones2 {
     list-style: none;
     width: 100%;
 }
